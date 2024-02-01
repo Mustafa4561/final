@@ -14,6 +14,10 @@ void enrolment();
 void create_records(){
 cout<<"CREATE records"<<endl;
 };
+void update_records(){
+cout<<"CREATE records"<<endl;
+};
+
 
 
 
