@@ -20,6 +20,9 @@ cout<<"update records"<<endl;
 void organize _courses(){
 cout<<"organize cources"<<endl;
 };
+void enrolment(){
+cout<<"enrolments"<<endl;
+};
 
 
 
