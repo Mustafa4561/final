@@ -3,7 +3,10 @@ using namespace std;
 
 class ELearning
 {
-void create records();
+void create_records();
+void update_records();
+void organize_courses();
+void enrolment();
 
 
 
