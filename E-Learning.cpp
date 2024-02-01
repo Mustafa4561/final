@@ -15,7 +15,10 @@ void create_records(){
 cout<<"CREATE records"<<endl;
 };
 void update_records(){
-cout<<"CREATE records"<<endl;
+cout<<"update records"<<endl;
+};
+void organize _courses(){
+cout<<"organize cources"<<endl;
 };
 
 
