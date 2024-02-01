@@ -11,6 +11,9 @@ void enrolment();
 
 
 };
+void create_records(){
+cout<<"CREATE records"<<endl;
+};
 
 
 
